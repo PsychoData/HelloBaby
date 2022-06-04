@@ -21,7 +21,7 @@
 title: Worlds Most Handsome Babies
 description: >- # this means to ignore newlines until "baseurl:"
   Paul Hibbert's submission for the worlds most handsome babies 
-baseurl: /HelloBaby/ # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
 theme: minima
