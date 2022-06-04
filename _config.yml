@@ -22,8 +22,6 @@ title: Worlds Most Handsome Babies
 description: >- # this means to ignore newlines until "baseurl:"
   Paul Hibbert's submission for the worlds most handsome babies 
 baseurl: /HelloBaby/ # the subpath of your site, e.g. /blog
-url: "https://psychodata.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 
 # Build settings
 theme: minima
